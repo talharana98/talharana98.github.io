@@ -4,8 +4,8 @@ html{
 
 
 body{
-    background-color: #6171be;
-    background-image: url(assets/ok1.jpeg);
+    background-color: #524732;
+    background-image: url(assets/gtr.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -19,7 +19,7 @@ body{
 }
 
 nav{
-    background-color:rgba(0, 0, 0, 0.479);
+    background-color:rgba(231, 175, 22, 0.466);
     text-align:center;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -48,8 +48,8 @@ footer{
 
 h1{
     font-size: 84px;
-    color:white;
-    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(8, 7, 7);
+    font-family: Georgia, 'Times New Roman', Times, serif;
     
 } 
 
@@ -64,7 +64,7 @@ h2{
 
 p{
     font-size: 18px;
-    color:white;
+    color:rgb(247, 243, 243);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
