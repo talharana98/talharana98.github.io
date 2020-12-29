@@ -4,15 +4,32 @@ html{
 
 
 body{
-    background-color: #524732;
-    background-image: url(assets/gtr.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
+.someB {
+  background-image: url(assets/wallpaper3.jpg);
+
+} 
+.someb1 {
+  background-image: url(assets/gtr.jpg);
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+  height: 100%;
+}
+.someb2 {
+  background-image: url(assets/ok1.jpeg);
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+  height: 100%;
+}
 
 .wrapper{
+    background-image: url(assets/gtr.jpg);
     margin-left: auto;
     margin-right: auto;
     width: 1024px;
@@ -55,7 +72,7 @@ h1{
 
 h2{
   font-size: 64px;
-  color:white;
+  color:rgb(223, 82, 82);
   font-family: Arial, Helvetica, sans-serif;
   
 } 
@@ -64,13 +81,13 @@ h2{
 
 p{
     font-size: 18px;
-    color:rgb(247, 243, 243);
+    color:rgb(192, 85, 85);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
 a{
-    color:white;
+    color:rgb(197, 74, 74);
     font-family: Arial, Helvetica, sans-serif;
     /*text-decoration:none;*/
 }
